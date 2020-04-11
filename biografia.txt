@@ -1,5 +1,5 @@
-Mi nombre es stanley Melo
+Mi nombre es Stanley Melo
 
-Soy ingeniero de sistemas, trabajo en la Universidad de los Andes,
-y en mis tiempos libres me educo con platzi, realizó mapas mentales y
-hago cosas raras con raspberry pis
+Soy ingeniero de sistemas, trabajo en Ecopetrol,
+y en mis tiempos libres me educo con platzi, realizo mapas mentales y
+hago cosas raras con arduino.
