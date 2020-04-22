@@ -1,3 +1,3 @@
 Clase que realiza la inserción de campus
 
-Hola como estan
+Hola como estan, esto es para comprobar rm y reset
